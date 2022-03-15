@@ -1,6 +1,6 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@article{bian2022learning,
+  title={Learning Pixel Trajectories with Multiscale Contrastive Random Walks},
+  author={Bian, Zhangxing and Jabri, Allan and Efros, Alexei A. and Owens, Andrew},
+  journal={arXiv},
+  year={2022}  
 }
