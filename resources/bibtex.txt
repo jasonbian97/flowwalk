@@ -1,6 +1,7 @@
-@article{bian2022learning,
+@InProceedings{bian2022learning,
   title={Learning Pixel Trajectories with Multiscale Contrastive Random Walks},
   author={Bian, Zhangxing and Jabri, Allan and Efros, Alexei A. and Owens, Andrew},
-  journal={arXiv},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  month     = {June},
   year={2022}  
 }
