@@ -6,6 +6,9 @@ This is the repository for *Learning Pixel Trajectories with Multiscale Contrast
 <img src="resources/teaser6.gif" width="600">
 </p>
 
+[[Paper](https://arxiv.org/abs/2201.08379)]
+[[Bibtex](https://jasonbian97.github.io/flowwalk/resources/bibtex.txt)]
+
 For any inquiries, please contact us at [jasonbian.zx@gmail.com](mailto:jasonbian.zx@gmail.com)
 
 # Use Model 
