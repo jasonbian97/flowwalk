@@ -20,7 +20,7 @@ run inference using pretrained model `*.ckpt`
 ```shell script
 python inference.py --input_dir ./demo --pretrained_ckpt ./pretrained/opticalflow/sintel-pretrained.ckpt
 ```
-To check if you run it successfully, you should be able to see output "flow_movie.mp4" under `./demo`:
+To check if you run it successfully, check output "./demo/flow_movie.mp4"` and it should be something like:
 
 <p align="center">
 <img src="resources/flow_movie.gif" width="700">
