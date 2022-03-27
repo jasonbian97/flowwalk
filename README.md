@@ -23,7 +23,7 @@ python inference.py --input_dir ./demo --pretrained_ckpt ./pretrained/opticalflo
 To check if you run it successfully, check output "./demo/flow_movie.mp4"` and it should be something like:
 
 <p align="center">
-<img src="resources/flow_movie.gif" width="700">
+<img src="resources/flow_movie.png" width="700">
 </p>
 
 # Train
